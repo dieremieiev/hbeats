@@ -1,0 +1,8 @@
+configuration:
+  avatar:
+    name: avatarName1
+    description: avatar description
+    beats:
+      -
+        name: beatname
+        description: beatdescription
